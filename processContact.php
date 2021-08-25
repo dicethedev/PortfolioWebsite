@@ -3,6 +3,7 @@
 require_once("function.php");
 
 //Collecting information from the contact form in the Index.pho into the data base
+
 $name = $_POST["name"];
 
 $email = $_POST["email"];
@@ -11,7 +12,7 @@ $mobile = $_POST["mobile"];
 
 $message = $_POST["message"];
 
-
+//this was install in the database
 function registerNewMember($name, $email, $mobile, $message)
 {
     $con =  connect();
