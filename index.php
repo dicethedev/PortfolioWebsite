@@ -274,7 +274,7 @@
             <a href="https://facebook.com/blessing.omosehin.3" class="footer__icon"><i class='bx bxl-facebook-circle'></i></a>
             <a href="https://instagram.com/dice.thedev" class="footer__icon"><i class='bx bxl-instagram-alt'></i></a>
             <a href="https://www.youtube.com/channel/UCuTLcs8-cfr6WJ2O8BICJEA" class="footer__icon"><i class='bx bxl-youtube'></i></a>
-            <a href="https://twitter.com/dicethedev" class="footer__icon"><i class='bx bxl-twitter'></i></a>
+            <a href="https://twitter.com/dice.thedev" class="footer__icon"><i class='bx bxl-twitter'></i></a>
         </div>
 
         <p>&#169 2021 Dice the Developer</p>
